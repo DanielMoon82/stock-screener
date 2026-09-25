@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,9441,t=>{"use strict";t.i(47167),t.i(43476);var e=t.i(71645);t.s(["AdSlot",0,function({slot:t,className:i=""}){return(0,e.useEffect)(()=>{},[t]),null}])}]);
