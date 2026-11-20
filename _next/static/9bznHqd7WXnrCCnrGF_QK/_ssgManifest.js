@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapi\u002Fstocks\u002F[code]","\u002Fguide\u002F[slug]","\u002Fpicks\u002F[date]","\u002Fstock\u002F[code]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
